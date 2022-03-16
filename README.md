@@ -1,6 +1,6 @@
 # rePatch-Manager
 ## Description
-App homebrew enable and disable rePatch game. Useful to enable and disable mods that using rePatch.  
+Homebrew app to enable and disable rePatch game. Useful to enable and disable mods that using rePatch.  
 Tested with FW 3.60 and 3.65
 
 ## Changelong
