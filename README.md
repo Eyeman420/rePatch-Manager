@@ -2,6 +2,7 @@
 ## Description
 Tool to enable and disable specific rePatch game. Useful to enable and disable mods that using rePatch.  
 Tested with FW 3.60 and 3.65
+Right now only support to read from ux0:/rePatch/
 
 ## Changelong
 1.00 - Initial release
