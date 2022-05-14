@@ -1,3 +1,8 @@
+--[[
+	Copyright (C) 2022 Eyeman
+	Licensed under GNU General Public License v3.0
+]]
+
 -- Init some colors
 local white = Color.new(255, 255, 255)
 local grey = Color.new(195, 195, 195,150)
@@ -14,13 +19,13 @@ while true do
     Graphics.fillRect(240, 720, 204, 340, grey) -- For repatch message
 
     -- Drawing status
-    Graphics.debugPrint(300, 257, "Successfully Disable rePatch game", white)
+    Graphics.debugPrint(300, 257, "Successfully disable rePatch game", white)
 
     Graphics.termBlend() -- End drawing
     Screen.flip()
     
     -- Check for input
-	if Controls.check(Controls.read(), SCE_CTRL_CROSS) then -- To return index.lua
+	if Controls.check(Controls.read(), SCE_CTRL_TRIANGLE) then -- To return index.lua
 		break
     end
 end
