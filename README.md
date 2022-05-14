@@ -10,7 +10,7 @@ Right now only support to read from ux0:/rePatch/
 
 ## Credit
 Rinnegatamante - lpp-vita and code sample  
-Starline, Daniele De Santis, freepik - Background, icon and livearea  
+Starline, Daniele De Santis, freepik, rawpixel.com - Background, icon and livearea  
 Vita Mods Table - Game list  
 https://docs.google.com/spreadsheets/d/1OkS1S2sJqs2p8jp6pxBfrQkHT4Tn2-__NmAl6BYIUw8/edit#gid=0  
 Basikalbaru - Tester
