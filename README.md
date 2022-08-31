@@ -5,7 +5,8 @@ Tested with FW 3.60 and 3.65
 Right now only support to read from ux0:/rePatch/
 
 ## Changelong
-1.00 - Initial release
+1.00 - Initial release.  
+1.10 - Fix the random crash after enable or disable rePatch mods.
 
 ## Credit
 Rinnegatamante - lpp-vita and code sample  
