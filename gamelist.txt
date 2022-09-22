@@ -1,3 +1,4 @@
+1.000, version
 PCSG00483,Aetornoblade (JP)
 PCSG00461,Airship Q (JP)
 PCSE00428,Akiba's Trip (US)
