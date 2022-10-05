@@ -1,5 +1,5 @@
 
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="2.0" encoding="utf-8"?>
 
 <livearea style="psmobile" format-ver="01.00" content-rev="1">
 	<livearea-background>
@@ -29,7 +29,7 @@
 	<frame id="frame4">
 		<liveitem>
 			<text align="left" text-align="left" word-wrap="off" ellipsis="on">
-				<str size="20" color="#ffffff" shadow="on">v1.10</str>
+				<str size="20" color="#ffffff" shadow="on">v2.00</str>
 			</text>
 		</liveitem>
 	</frame>
